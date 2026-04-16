@@ -1,7 +1,7 @@
 # app_llm
  
 
- Prosty chat openAI z zapisywanie historii czatu z użyciem langchain-laravel
+ Prosty chat openAI z zapisywanie historii czatu z użyciem Laravel+React
 Uruchomienie:
 
 Pobierz pliki na serwer
